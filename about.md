@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+theme: jekyll-theme-slate
 ---
 
 ## About Me
