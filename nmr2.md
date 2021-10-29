@@ -20,7 +20,7 @@ For GROMACS, a "nmr2" force field package is readily available for implementatio
 3. If you use "nmr2" in your work, please cite the reference below.
 
 ### Reference
-Yu, L; Li, D.-W.; Brüschweiler, R., Balanced Amino-Acid-Specific Molecular Dynamics Force Field for the Realistic Simulation of Both Folded and Disordered Proteins, J. Chem. Theory Comput., **2020**, 16, 1311–1318, doi:10.1021/acs.jctc.9b01062
+Yu, L; Li, D.-W.; Brüschweiler, R., Balanced Amino-Acid-Specific Molecular Dynamics Force Field for the Realistic Simulation of Both Folded and Disordered Proteins, *J. Chem. Theory Comput.*, **2020**, *16*, 1311–1318, doi:10.1021/acs.jctc.9b01062
 
 ### Contact
 If you have any questions, please feel free to contact Lei Yu via yu.1935@osu.edu
