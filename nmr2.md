@@ -10,7 +10,7 @@ AMBER ff99SBnmr2 "nmr2" is a protein force field developed by me and co-workers 
 For GROMACS, a "nmr2" force field package is readily available for implementation.
 
 ### Instructions
-1. Download and extract the force field into your working directory.
+1. [Download](amber99sbnmr2.ff.zip) and extract the force field into your working directory.
 2. Run ```pdb2gmx``` and select ```amber99sbnmr2``` as your protein force field. Run ```grompp``` to obtain a ```tpr``` file.  
 3. Equilibrate and submit your production run.
 
