@@ -4,4 +4,4 @@ title: Portfolio
 
 # Portfolio
 
-## [Protein Force Field](https://rye4ray.github.io/nmr2)
+## [Protein Force Field](https://rye4ray.github.io/portfolio/nmr2)
