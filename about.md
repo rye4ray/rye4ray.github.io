@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Lei Yu's Homepage
 ---
 
 ## About Me
