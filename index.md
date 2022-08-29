@@ -10,4 +10,4 @@ I’m a computational chemist who has an interest in coding. I’m currently a P
 
 ## Profile
 ### [Google Scholar](https://scholar.google.com/citations?user=x0LAK28AAAAJ&hl=en)
-### [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0159-1968)
+### [ORCID](https://orcid.org/0000-0003-0159-1968)
