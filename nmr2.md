@@ -1,5 +1,5 @@
 ---
-title: AMBER ff99SBnmr2
+title: [AMBER ff99SBnmr2](https://rye4ray.github.io)
 permalink: /portfolio/nmr2/
 ---
 
