@@ -3,7 +3,7 @@ title: Lei Yu's Homepage
 ---
 
 ## [About Me](https://rye4ray.github.io)
-I’m a computational chemist who has an interest in coding. I’m currently a Postdoctoral Fellow at Janssen Research & Development where I work on molecular dynamics and peptide design. In my free time, I enjoy watching movies, listening to music, and visiting museums.
+I’m a computational chemist who has an interest in coding. I’m currently a Senior Scientist at Pinnacle Medicines where I support peptide-based drug discover projects. In my free time, I enjoy watching movies, hiking, and visiting museums.
 
 ## Portfolio
 ### [Protein Force Field](https://rye4ray.github.io/portfolio/nmr2)
